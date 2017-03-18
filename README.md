@@ -2,16 +2,10 @@
 Project in Molecular Life Science, protein structure predictor using svm.
 
 Output
--
-Model trained with single-sequence information
--
-Model trained with multiple-sequence information
+SVM models
 
 Input
--
-Whole dataset
--
-Reduced dataset
+Datasets, whole and reduced
 
 check_ws
 -
