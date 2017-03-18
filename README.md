@@ -9,6 +9,9 @@ Input
 -
 Datasets, whole and reduced
 
+Scripts
+-
+
 check_ws
 -
 Performs cross-validation with different window sizes
