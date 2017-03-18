@@ -2,9 +2,11 @@
 Project in Molecular Life Science, protein structure predictor using svm.
 
 check_ws
+-
 Performs cross-validation with different window sizes
 
 confusion_matrix
+-
 Performs cross-validation and creates a confusion matrix figure
 
 create_model
