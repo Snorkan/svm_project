@@ -2,9 +2,11 @@
 Project in Molecular Life Science, protein structure predictor using svm.
 
 Output
+-
 SVM models
 
 Input
+-
 Datasets, whole and reduced
 
 check_ws
