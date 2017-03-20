@@ -12,7 +12,6 @@ cd $filename
 mkdir psi_blast
 mkdir pssm
 
-cd directory
 
 for file in folder*;
 do
